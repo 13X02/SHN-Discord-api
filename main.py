@@ -45,6 +45,5 @@ async def on_message(message):
             await message.channel.send("Invalid Image format ")
             print("Error:", response.status_code, response.text)
 
-
 client.run(os.getenv('TOKEN'))
 
