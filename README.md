@@ -23,3 +23,8 @@ Walkthrough video https://drive.google.com/file/d/1TJK8NbWrdYfGneJAV3aqvx5Flv14m
 
 ##api used : Discord api
              removebg api
+             
+ Libraries Used:
+
+Discord
+PIL
